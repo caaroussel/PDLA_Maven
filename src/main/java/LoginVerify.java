@@ -44,6 +44,7 @@ public class LoginVerify extends HttpServlet {
 		}else
 			 System.out.println("Erreur dans les identifiants");
 			 System.out.println("wesh le sang t'as fait une erreur");
+			 System.out.println("Vas y je fais ca pour le test");
 	}
 
 }
